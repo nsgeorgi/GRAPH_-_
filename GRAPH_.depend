@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1360532500 source:c:\users\nikos\desktop\graph_\src\hashtable.cpp
+	"Hashtable.h"
+	<iostream>
+	<string>
+	<fstream>
+	<conio.h>
+
+1360507307 c:\users\nikos\desktop\graph_\include\\hashtable.h
+	"ID.h"
+
+1357452209 c:\users\nikos\desktop\graph_\include\\id.h
+	"Node.h"
+	<queue>
+
+1357451794 c:\users\nikos\desktop\graph_\include\\node.h
+
+1360531834 source:c:\users\nikos\desktop\graph_\src\id.cpp
+	"ID.h"
+	"Node.h"
+	<string>
+	<iostream>
+
+1357348726 source:c:\users\nikos\desktop\graph_\src\node.cpp
+	"Node.h"
+
+1360531884 source:c:\users\nikos\desktop\graph_\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"Hashtable.h"
+	"Node.h"
+	"ID.h"
+	<queue>
+	<time.h>
+
+1357451718 source:c:\users\nikos\desktop\android project\graph_\src\hashtable.cpp
+	"Hashtable.h"
+	<iostream>
+	<string>
+	<fstream>
+	<conio.h>
+
+1357452221 source:c:\users\nikos\desktop\android project\graph_\src\id.cpp
+	"ID.h"
+	"Node.h"
+	<string>
+	<iostream>
+
+1357348726 source:c:\users\nikos\desktop\android project\graph_\src\node.cpp
+	"Node.h"
+
+1360093167 source:c:\users\nikos\desktop\android project\graph_\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"Hashtable.h"
+	"Node.h"
+	"ID.h"
+	<queue>
+	<time.h>
+
+1360531834 source:c:\users\nikos\desktop\graph_ _\src\id.cpp
+	"ID.h"
+	"Node.h"
+	<string>
+	<iostream>
+
+1357348726 source:c:\users\nikos\desktop\graph_ _\src\node.cpp
+	"Node.h"
+
+1360544580 source:c:\users\nikos\desktop\graph_ _\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<stdlib.h>
+	"Hashtable.h"
+	"Node.h"
+	"ID.h"
+	<queue>
+	<time.h>
+
+1360542556 source:c:\users\nikos\desktop\graph_ _\src\hashtable.cpp
+	"Hashtable.h"
+	<iostream>
+	<string>
+	<fstream>
+	<conio.h>
+

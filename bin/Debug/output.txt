@@ -1,0 +1,2 @@
+MST  39  it took 0.001 seconds 
+NCN  2
